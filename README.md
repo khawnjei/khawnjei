@@ -2,15 +2,15 @@
 
 <h3 align="center">I code with passion, tackle challenges head-on, and thrive on collaborative development to craft software solutions that pack a punch in value.</h3>
 
-- 🔭 I’m currently working on **React, React Native & JavaScript.**
+- I’m currently working on **React, React Native & JavaScript.**
 
-- 🌱 I’m currently learning **Node JS.**
+- I’m currently learning **Node JS.**
 
-- 💬 Ask me about **frontend web and mobile app development.**
+- Ask me about **frontend web and mobile app development.**
 
-- 📫 How to reach me **mustafazaidei@gmail.com**
+- How to reach me **mustafazaidei@gmail.com**
 
-- ⚡ Fun fact **in code we trust.**
+- Fun fact **in code we trust.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
