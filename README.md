@@ -2,8 +2,6 @@
 
 <h3 align="center">I code with passion, tackle challenges head-on, and thrive on collaborative development to craft software solutions that pack a punch in value.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programkingabel&label=Profile%20views&color=0e75b6&style=flat" alt="programkingabel" /> </p>
-
 - 🔭 I’m currently working on **React JS, React Native & JavaScript.**
 
 - 🌱 I’m currently learning **Node JS**
