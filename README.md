@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React & React Native.**
 
-- 🌱 I’m currently learning **Node JS.**
+- 🌱 I’m currently learning **Cyber Security.**
 
 - 💬 Ask me about **frontend web and mobile app development.**
 
