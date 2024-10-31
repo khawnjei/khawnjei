@@ -23,8 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khawnjei&show_icons=true&locale=en&layout=compact" alt="khawnjei" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khawnjei&show_icons=true&locale=en" alt="khawnjei" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khawnjei&" alt="khawnjei" /></p>
-
 
