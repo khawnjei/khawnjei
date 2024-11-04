@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I code with passion, tackle challenges head-on, and thrive on collaborative development to craft software solutions that pack a punch in value.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khawnjei&label=Profile%20views&color=0e75b6&style=flat" alt="khawnjei" /> </p>
-
 - 🔭 I’m currently working on **React & React Native.**
 
 - 🌱 I’m currently learning **Cyber Security.**
